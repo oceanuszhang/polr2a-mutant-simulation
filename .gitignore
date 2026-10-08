@@ -1,0 +1,10 @@
+*.dcd
+*.trr
+*.xtc
+*.tgz
+*.tar.gz
+simulations/
+charmm-gui/
+.DS_Store
+__pycache__/
+*.pyc
